@@ -1,6 +1,15 @@
-# Data Science Project Boilerplate
+# 🧠 Uncover Links Between Health Resources & Demographics using Regularized Linear Regression
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+This project explores the relationship between sociodemographic indicators and health resource availability at the county level across the United States using **Linear Regression** and **Lasso Regression**. The goal is to model a health-related target variable based on various demographic and resource-based predictors.
+
+## 🎯 Project Objectives
+
+- Understand and explore a rich dataset on U.S. county-level demographics and health.
+- Apply full **Exploratory Data Analysis (EDA)** to clean, transform, and select features.
+- Build a **baseline Linear Regression model**.
+- Enhance the model with **Lasso regularization**.
+- Analyze model performance as Lasso’s alpha hyperparameter changes.
+- Optimize and tune the model to improve results.
 
 ## Structure
 
